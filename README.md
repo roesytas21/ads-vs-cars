@@ -1,6 +1,6 @@
 # **What are the factors that affect selling a car?**
 
-This is the thrid project of Data Analyst Bootcamp at Practicum under Exploratory Data Analysis (EDA) third sprint. You are a Data Analyst at Crankshaft List. As data analyst, you have to study the datasets of the last few years and determine the factors that affect the price of a vehicle.
+This is the thrid project of Data Analyst Bootcamp at Practicum under Exploratory Data Analysis (EDA) third sprint. My role a Data Analyst at Crankshaft List whom have to study the datasets of the last few years and determine the factors that affect the price of a vehicle.
 
 ## Description of Dataset:
 The given dataset has the following columns:
