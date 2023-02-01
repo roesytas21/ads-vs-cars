@@ -2,7 +2,7 @@
 
 This is the thrid project of Data Analyst Bootcamp at Practicum under Exploratory Data Analysis (EDA) third sprint. You are a Data Analyst at Crankshaft List. As data analyst, you have to study the datasets of the last few years and determine the factors that affect the price of a vehicle.
 
-## Data:
+## Description of Dataset:
 The given dataset has the following columns:
 - `price` = car price
 - `model_year` = what year the car was released
