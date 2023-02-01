@@ -25,3 +25,4 @@ The given dataset has the following columns:
 1. Pandas
 2. Matplotlib.pyplot
 3. Seaborn
+4. Numpy
